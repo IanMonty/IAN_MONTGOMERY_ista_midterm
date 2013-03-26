@@ -1,0 +1,9 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Final Project Proposal:\
+\
+So far our project will consist of interaction with the Kinect and a Wii remote.  Users will be able to walk into a room and with a projector and draw in space an object using the wii remote and then move the object around the room as though it was a physical object, like a ball.  In the instance of this project, a person would walk into a room containing a projector, kinect on a stand, and a wii remote.  By pressing down on the b button on the wii remote, the person can draw an object that is registered by the various sensors, and then can play with that object as they move about the room.  the persons image will be projected on the screen in order to show the interaction.}
